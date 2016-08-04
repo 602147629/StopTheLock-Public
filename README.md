@@ -5,10 +5,6 @@
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/TTCO16d-R04/0.jpg)](http://www.youtube.com/watch?v=TTCO16d-R04 " Spring Pong Unity Asset Store Preview")
 
 # [GET IT ON THE ASSET STORE][AssetStoreLink]
------
-
-# Try it on [Android Play Store][AndroidLink] |  [Amazon Kindle Fire App Shop][AmazonLink] | [Facebook][FacebookLink]
-
 
 ----
 
